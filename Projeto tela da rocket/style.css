@@ -107,3 +107,13 @@ input:hover {
 i {
     color: #ddd
 }
+
+.bg {
+    background-color:  #29292e;
+    color:  #fff;
+}
+
+.bg:hover {
+    background-color: #8257e6;
+    transition: background-color 1s ease-out
+}
